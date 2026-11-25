@@ -1,10 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a,b,c;
+    int a,b;
     cin>> a>> b;
-    c=a*b;
-    cout<<"multiplication of two number: "<<c<<endl;
+    cout<<"multiplication of two number: "<<a*b<<endl;
     return 0;
-    
+
 }
