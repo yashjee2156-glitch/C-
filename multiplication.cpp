@@ -5,5 +5,4 @@ int main(){
     cin>> a>> b;
     cout<<"multiplication of two number: "<<a*b<<endl;
     return 0;
-
 }
